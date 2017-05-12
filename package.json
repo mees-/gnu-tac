@@ -1,0 +1,9 @@
+{
+  "name": "gnu-tac",
+  "version": "1.0.0",
+  "description": "Reads a file in reverse order",
+  "main": "index.js",
+  "repository": "mees-/gnu-tac",
+  "author": "Mees van Dijk",
+  "license": "MIT"
+}
